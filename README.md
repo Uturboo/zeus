@@ -23,3 +23,5 @@ v0.0.1 Pre-alpha
 
 ### Build Status
 [![Build Status](https://travis-ci.org/Uturboo/zeus.svg?branch=master)](https://travis-ci.org/Uturboo/zeus)
+![codecov.io](https://codecov.io/github/Uturboo/zeus/branch.svg?branch=master)
+
