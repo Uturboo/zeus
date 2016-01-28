@@ -14,9 +14,7 @@ workon zenus            # use env
 ### Commands
 ```
 workon zeus             # enter dev env
-
 deactivate              # exit dev env
-
 make test               # run utiltest
 ```
 
