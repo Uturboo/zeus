@@ -24,3 +24,4 @@ make test               # run utiltest
 v0.0.1 Pre-alpha
 
 ### Build Status
+[![Build Status](https://travis-ci.org/Uturboo/zeus.svg?branch=master)](https://travis-ci.org/Uturboo/zeus)
